@@ -1,4 +1,4 @@
-#Here is a program from the Book "Hello World!" with my comments, which should further explain If statments 
+#Here is a program from the Book "Hello World!" with my comments, which should further explain If statments. This is a nice simple overview!
 
 # Listing_7-1.py
 # Copyright Warren Sande, 2009
