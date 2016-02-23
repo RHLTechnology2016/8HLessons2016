@@ -12,6 +12,14 @@ print a #Will show 10 on the screen
 print b #Will show 12 on the screen 
 print c #will show 22 on the screen
 
+
+# You can increase or decrease variables by having the Variable equal its orignal name, then plus/minus/times/divide however many you want to change; or another variables name. 
+c = c + 1 
+print c
+
+c = c + a #
+print c
+
 #Variables can also equal text as well
 
 MyText = "Hello, my name is Alexander Parsan. I am a grade 8 Student at RHL." 
